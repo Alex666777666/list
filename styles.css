@@ -5,7 +5,6 @@
 }
 .first {
   text-decoration: red overline;
-  text-decoration-style: wavy;
 }
 .second {
   text-decoration: line-through;
